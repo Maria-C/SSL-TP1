@@ -1,4 +1,4 @@
-/*Trabajo Practico No. 1 - Imprimir temperaturas Celsius
+/*Trabajo Practico No. 1 - Imprimir temperaturas de Celsius a Fahrenheit
 *Cordoba, Maria Noelia - K2051
 *20150412*/
 
